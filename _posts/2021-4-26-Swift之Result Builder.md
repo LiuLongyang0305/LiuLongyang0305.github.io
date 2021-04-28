@@ -4,7 +4,7 @@
 
 如下代码定义了一个新的类型，用来显示一行由`*`和文本组成的数据。
 
-```swift{.line-numbers}
+```swift
 protocol Drawable {
     func draw() -> String
 }
